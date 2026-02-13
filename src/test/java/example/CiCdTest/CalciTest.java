@@ -9,7 +9,7 @@ public class CalciTest {
 	@Test
 	void addTest() {
 		Calci obj=new Calci();
-		assertEquals(10, obj.add(8, 2));
+		assertEquals(87, obj.add(85, 2));
 	}
 	
 	@Test
