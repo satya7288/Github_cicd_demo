@@ -15,7 +15,7 @@ public class CalciTest {
 	@Test
 	void multipyTest() {
 		Calci obj=new Calci();
-		assertEquals(0, obj.multipy(2, 0));
+		assertEquals(2, obj.multipy(2, 1));
 		
 	}
 }
